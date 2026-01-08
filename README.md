@@ -1,7 +1,8 @@
 # Color Code Palette - 完整颜色资源指南
+# Color Code Palette - 完整颜色资源指南
 
 ## 网站简介
-Color Code Palette (https://colorcodepalette.com/) 是一个专业的颜色资源平台，为设计师、开发者和色彩爱好者提供全面的颜色代码、色系变化和调色板方案。
+[Color Code Palette](https://colorcodepalette.com/) 是一个专业的颜色资源平台，为设计师、开发者和色彩爱好者提供全面的颜色代码、色系变化和调色板方案。
 
 ## 主要功能特色
 
@@ -27,78 +28,82 @@ Color Code Palette (https://colorcodepalette.com/) 是一个专业的颜色资�
 ## 详细资源分类
 
 ### 颜色代码 (Color Codes)
-- [Red Color Code](/colors/red/) - 红色颜色代码（HEX, RGB值）
-- [Blue Color Code](/colors/blue/) - 蓝色颜色代码合集
-- [Green Color Code](/colors/green/) - 绿色颜色代码详细信息
-- [Yellow Color Code](/colors/yellow/) - 黄色颜色代码（含金色变体）
-- [Gold Color Code](/colors/yellow/gold.html) - 金属金色代码信息
-- [Purple Color Code](/colors/purple/) - 紫色颜色代码及变体
-- [Orange Color Code](/colors/orange/) - 橙色颜色代码合集
-- [Pink Color Code](/colors/pink/) - 粉色颜色代码参考
-- [Brown Color Code](/colors/brown/) - 棕色颜色代码指南
-- [White Color Code](/colors/white/) - 白色颜色代码及色系
-- [Grey Color Code](/colors/grey/) - 灰色颜色代码合集
-- [Black Color Code](/colors/black/) - 黑色颜色代码参考
-- [Logo Colors](/colors/logo/) - 专业Logo颜色代码与组合
+- [Red Color Code](https://colorcodepalette.com/colors/red/) - Comprehensive red color codes with HEX, RGB values
+- [Blue Color Code](https://colorcodepalette.com/colors/blue/) - Complete blue color codes collection
+- [Green Color Code](https://colorcodepalette.com/colors/green/) - Green color codes with detailed information
+- [Yellow Color Code](https://colorcodepalette.com/colors/yellow/) - Yellow color codes including gold variations
+- [Gold Color Code](https://colorcodepalette.com/colors/yellow/gold.html) - Metallic gold color codes and information
+- [Purple Color Code](https://colorcodepalette.com/colors/purple/) - Purple color codes and variations
+- [Orange Color Code](https://colorcodepalette.com/colors/orange/) - Orange color codes collection
+- [Pink Color Code](https://colorcodepalette.com/colors/pink/) - Pink color codes reference
+- [Brown Color Code](https://colorcodepalette.com/colors/brown/) - Brown color codes guide
+- [White Color Code](https://colorcodepalette.com/colors/white/) - White color codes and shades
+- [Grey Color Code](https://colorcodepalette.com/colors/grey/) - Grey color codes collection
+- [Black Color Code](https://colorcodepalette.com/colors/black/) - Black color codes reference
+- [Logo Colors](https://colorcodepalette.com/colors/logo/) - Professional logo color codes and combinations
 
 ### 色彩深浅变化 (Shades Variations)
-- [Shades of Red](/shades/shades-of-red/) - 红色从浅到深的各种色系
-- [Shades of Blue](/shades/shades-of-blue/) - 完整的蓝色色系合集
-- [Shades of Green](/shades/shades-of-green/) - 绿色色系变化
-- [Shades of Yellow](/shades/shades-of-yellow/) - 黄色色系（含金色调）
-- [Shades of Gold](/shades/shades-of-gold/) - 金属金色色系及变体
-- [Shades of Purple](/shades/shades-of-purple/) - 紫色色系合集
-- [Shades of Orange](/shades/shades-of-orange/) - 橙色色系参考
-- [Shades of Pink](/shades/shades-of-pink/) - 粉色色系指南
-- [Shades of Brown](/shades/shades-of-brown/) - 棕色色系变化
-- [Shades of White](/shades/shades-of-white/) - 白色色系合集
-- [Shades of Grey](/shades/shades-of-grey/) - 灰色色系参考
-- [Shades of Black](/shades/shades-of-black/) - 黑色色系指南
-- [Shades of Beige](/shades/shades-of-beige/) - 米色色系合集
+- [Shades of Red](https://colorcodepalette.com/shades/shades-of-red/) - Various red shades from light to dark
+- [Shades of Blue](https://colorcodepalette.com/shades/shades-of-blue/) - Complete blue shades collection
+- [Shades of Green](https://colorcodepalette.com/shades/shades-of-green/) - Green shades variations
+- [Shades of Yellow](https://colorcodepalette.com/shades/shades-of-yellow/) - Yellow shades including gold tones
+- [Shades of Gold](https://colorcodepalette.com/shades/shades-of-gold/) - Metallic gold shades and variations
+- [Shades of Purple](https://colorcodepalette.com/shades/shades-of-purple/) - Purple shades collection
+- [Shades of Orange](https://colorcodepalette.com/shades/shades-of-orange/) - Orange shades reference
+- [Shades of Pink](https://colorcodepalette.com/shades/shades-of-pink/) - Pink shades guide
+- [Shades of Brown](https://colorcodepalette.com/shades/shades-of-brown/) - Brown shades variations
+- [Shades of White](https://colorcodepalette.com/shades/shades-of-white/) - White shades collection
+- [Shades of Grey](https://colorcodepalette.com/shades/shades-of-grey/) - Grey shades reference
+- [Shades of Black](https://colorcodepalette.com/shades/shades-of-black/) - Black shades guide
+- [Shades of Beige](https://colorcodepalette.com/shades/shades-of-beige/) - Beige shades collection
 
 ### 调色板 (Color Palettes)
 **单色调色板**
-- [Red Color Palette](/palettes/red-color-palette/) - 和谐的红色配色组合
-- [Blue Color Palette](/palettes/blue-color-palette/) - 蓝色配色方案
-- [Green Color Palette](/palettes/green-color-palette/) - 绿色配色组合
-- [Yellow Color Palette](/palettes/yellow-color-palette/) - 黄色配色方案
-- [Gold Color Palette](/palettes/gold-color-palette/) - 金属金色调色板
-- [Purple Color Palette](/palettes/purple-color-palette/) - 紫色配色组合
-- [Orange Color Palette](/palettes/orange-color-palette/) - 橙色配色方案
-- [Pink Color Palette](/palettes/pink-color-palette/) - 粉色配色组合
-- [Brown Color Palette](/palettes/brown-color-palette/) - 棕色调色板
-- [Grey Color Palette](/palettes/grey-color-palette/) - 灰色配色方案
-- [Beige Color Palette](/palettes/beige-color-palette/) - 米色配色组合
+- [Red Color Palette](https://colorcodepalette.com/palettes/red-color-palette/) - Harmonious red color combinations
+- [Blue Color Palette](https://colorcodepalette.com/palettes/blue-color-palette/) - Blue color scheme palettes
+- [Green Color Palette](https://colorcodepalette.com/palettes/green-color-palette/) - Green color combinations
+- [Yellow Color Palette](https://colorcodepalette.com/palettes/yellow-color-palette/) - Yellow color scheme palettes
+- [Gold Color Palette](https://colorcodepalette.com/palettes/gold-color-palette/) - Gold metallic palettes
+- [Purple Color Palette](https://colorcodepalette.com/palettes/purple-color-palette/) - Purple color combinations
+- [Orange Color Palette](https://colorcodepalette.com/palettes/orange-color-palette/) - Orange color schemes
+- [Pink Color Palette](https://colorcodepalette.com/palettes/pink-color-palette/) - Pink color combinations
+- [Brown Color Palette](https://colorcodepalette.com/palettes/brown-color-palette/) - Brown color palettes
+- [Grey Color Palette](https://colorcodepalette.com/palettes/grey-color-palette/) - Grey color schemes
+- [Beige Color Palette](https://colorcodepalette.com/palettes/beige-color-palette/) - Beige color combinations
 
 **专业调色板**
-- [Color Combinations](/palettes/combinations/) - 专业配色配对指南
+- [Metallic Color Palette](https://colorcodepalette.com/palettes/metallic-color-palette/) - 金属色调色板
+- [Neutral Color Palette](https://colorcodepalette.com/palettes/neutral-color-palette/) - 中性色调色板
+- [Pastel Color Palette](https://colorcodepalette.com/palettes/pastel-color-palette/) - 柔和色调色板
+- [Neon Color Palette](https://colorcodepalette.com/palettes/neon-color-palette/) - 霓虹色调色板
+- [Color Combinations](https://colorcodepalette.com/palettes/combinations/) - Professional color pairing guides
 
 ### 季节性调色板 (Seasonal Palettes)
 **基础季节调色板**
-- [Spring Color Palette](/season/spring-color-palette/) - 清新的春季配色组合
-- [Summer Color Palette](/season/summer-color-palette/) - 活力的夏季色彩
-- [Autumn Color Palette](/season/autumn-color-palette/) - 温暖的秋季配色方案
-- [Winter Color Palette](/season/winter-color-palette/) - 冷调的冬季调色板
+- [Spring Color Palette](https://colorcodepalette.com/season/spring-color-palette/) - Fresh spring color combinations
+- [Summer Color Palette](https://colorcodepalette.com/season/summer-color-palette/) - Vibrant summer colors
+- [Autumn Color Palette](https://colorcodepalette.com/season/autumn-color-palette/) - Warm autumn color schemes
+- [Winter Color Palette](https://colorcodepalette.com/season/winter-color-palette/) - Cool winter color palettes
 
 **春季细分调色板**
-- [Light Spring Color Palette](/season/light-spring-color-palette/) - 柔和的浅春季色彩
-- [Warm Spring Color Palette](/season/warm-spring-color-palette/) - 暖色调春季色彩
-- [Bright Spring Color Palette](/season/bright-spring-color-palette/) - 明亮活力的春季色彩
+- [Light Spring Color Palette](https://colorcodepalette.com/season/light-spring-color-palette/) - Soft and light spring colors
+- [Warm Spring Color Palette](https://colorcodepalette.com/season/warm-spring-color-palette/) - Warm-toned spring colors
+- [Bright Spring Color Palette](https://colorcodepalette.com/season/bright-spring-color-palette/) - Vibrant and bright spring colors
 
 **夏季细分调色板**
-- [Light Summer Color Palette](/season/light-summer-color-palette/) - 柔和的夏季配色方案
-- [Cool Summer Color Palette](/season/cool-summer-color-palette/) - 冷色调夏季色彩
-- [Soft Summer Color Palette](/season/soft-summer-color-palette/) - 柔和的夏季调色板
+- [Light Summer Color Palette](https://colorcodepalette.com/season/light-summer-color-palette/) - Soft summer color schemes
+- [Cool Summer Color Palette](https://colorcodepalette.com/season/cool-summer-color-palette/) - Cool-toned summer colors
+- [Soft Summer Color Palette](https://colorcodepalette.com/season/soft-summer-color-palette/) - Muted summer color palettes
 
 **秋季细分调色板**
-- [Soft Autumn Color Palette](/season/soft-autumn-color-palette/) - 柔和的秋季配色组合
-- [Warm Autumn Color Palette](/season/warm-autumn-color-palette/) - 温暖的秋季配色方案
-- [Deep Autumn Color Palette](/season/deep-autumn-color-palette/) - 浓郁的深秋季色彩
+- [Soft Autumn Color Palette](https://colorcodepalette.com/season/soft-autumn-color-palette/) - Soft autumn color combinations
+- [Warm Autumn Color Palette](https://colorcodepalette.com/season/warm-autumn-color-palette/) - Warm autumn color schemes
+- [Deep Autumn Color Palette](https://colorcodepalette.com/season/deep-autumn-color-palette/) - Rich deep autumn colors
 
 **冬季细分调色板**
-- [Deep Winter Color Palette](/season/deep-winter-color-palette/) - 深冬季配色组合
-- [Cool Winter Color Palette](/season/cool-winter-color-palette/) - 冷冬季配色方案
-- [Bright Winter Color Palette](/season/bright-winter-color-palette/) - 明亮的冬季调色板
+- [Deep Winter Color Palette](https://colorcodepalette.com/season/deep-winter-color-palette/) - Deep winter color combinations
+- [Cool Winter Color Palette](https://colorcodepalette.com/season/cool-winter-color-palette/) - Cool winter color schemes
+- [Bright Winter Color Palette](https://colorcodepalette.com/season/bright-winter-color-palette/) - Bright winter color palettes
 
 ## 适用场景
 - 🎯 网页设计与开发
@@ -115,4 +120,4 @@ Color Code Palette (https://colorcodepalette.com/) 是一个专业的颜色资�
 
 *探索色彩的无限可能，让每一个项目都拥有完美的配色方案。*
 
-**访问网站**：https://colorcodepalette.com/
+**访问网站**：[https://colorcodepalette.com/](https://colorcodepalette.com/)
